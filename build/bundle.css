@@ -1,0 +1,7 @@
+html,
+body {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+main.svelte-2y1l8u{display:flex;height:100%}.body.svelte-xp7wdr{height:100%;width:100%;display:flex;flex-direction:column}.inputs-container.svelte-xp7wdr{display:flex}.column.svelte-xp7wdr{display:flex;flex-direction:column;width:50%}.input.svelte-xp7wdr{width:120px;margin-top:12px}.add-input-button.svelte-xp7wdr{width:120px;margin-top:12px}.get-outliers-button.svelte-xp7wdr{width:120px;margin-top:12px}.results-container.svelte-xp7wdr{width:100%;margin-top:36px}
