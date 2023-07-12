@@ -62,8 +62,10 @@
   {#if results}
     <div class="results-container">
       {#each results as result}
-        <div>Combos: {result.combo.join(', ')}</div>
-        <div>Outliers: {result.outliers.join(', ')}</div>
+        <div class="indiv-results">
+          <div>Combo: {result.combo.join(', ')}</div>
+          <div>Outliers: {result.outliers.join(', ')}</div>
+        </div>
       {/each}
     </div>
   {/if}
@@ -105,5 +107,10 @@
   .results-container {
     width: 100%;
     margin-top: 36px;
+  }
+
+  .indiv-results {
+    padding: 12px;
+    border: 1px solid #666;
   }
 </style>
