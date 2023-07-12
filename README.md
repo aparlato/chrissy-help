@@ -1,2 +1,1 @@
-# chrissy-help
-Help for Chrissy
+# Chrissy help
