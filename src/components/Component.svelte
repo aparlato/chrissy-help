@@ -1,7 +1,7 @@
 <script>
   import { getOutliers } from '../get-outliers';
 
-  let inputs = [{ value: 5, id: 0 }];
+  let inputs = [{ value: 0, id: 0 }];
 
   let desiredSum = 0.0;
 
