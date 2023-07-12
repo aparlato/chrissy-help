@@ -1,5 +1,4 @@
 <script>
-  import { makeConfig } from './make-config';
   import Component from './components/Component.svelte';
 </script>
 
